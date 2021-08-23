@@ -1,0 +1,457 @@
+[
+	{
+		"idCliente": "ALFKI",
+		"NombreCompania": "Alfreds Futterkiste",
+		"NombreContacto": "Maria Anders"
+	},
+	{
+		"idCliente": "ANATR",
+		"NombreCompania": "Ana Trujillo Emparedados y helados",
+		"NombreContacto": "Ana Trujillo"
+	},
+	{
+		"idCliente": "ANTON",
+		"NombreCompania": "Antonio Moreno Taquer",
+		"NombreContacto": "Antonio Moreno"
+	},
+	{
+		"idCliente": "AROUT",
+		"NombreCompania": "Around the Horn",
+		"NombreContacto": "Thomas Hardy"
+	},
+	{
+		"idCliente": "BERGS",
+		"NombreCompania": "Berglunds snabbk",
+		"NombreContacto": "Christina Berglund"
+	},
+	{
+		"idCliente": "BLAUS",
+		"NombreCompania": "Blauer See Delikatessen",
+		"NombreContacto": "Hanna Moos"
+	},
+	{
+		"idCliente": "BLONP",
+		"NombreCompania": "Blondel p",
+		"NombreContacto": "Fr"
+	},
+	{
+		"idCliente": "BOLID",
+		"NombreCompania": "B",
+		"NombreContacto": "Mart"
+	},
+	{
+		"idCliente": "BONAP",
+		"NombreCompania": "Bon app'",
+		"NombreContacto": "Laurence Lebihan"
+	},
+	{
+		"idCliente": "BOTTM",
+		"NombreCompania": "Bottom Dollar Markets",
+		"NombreContacto": "Elizabeth Lincoln"
+	},
+	{
+		"idCliente": "BSBEV",
+		"NombreCompania": "B's Beverages",
+		"NombreContacto": "Victoria Ashworth"
+	},
+	{
+		"idCliente": "CACTU",
+		"NombreCompania": "Cactus Comidas para llevar",
+		"NombreContacto": "Patricio Simpson"
+	},
+	{
+		"idCliente": "CENTC",
+		"NombreCompania": "Centro comercial Moctezuma",
+		"NombreContacto": "Francisco Chang"
+	},
+	{
+		"idCliente": "CHOPS",
+		"NombreCompania": "Chop suey Chinese",
+		"NombreContacto": "Yang Wang"
+	},
+	{
+		"idCliente": "COMMI",
+		"NombreCompania": "Com",
+		"NombreContacto": "Pedro Afonso"
+	},
+	{
+		"idCliente": "CONSH",
+		"NombreCompania": "Consolidated Holdings",
+		"NombreContacto": "Elizabeth Brown"
+	},
+	{
+		"idCliente": "DRACD",
+		"NombreCompania": "Drachenblut Delikatessen",
+		"NombreContacto": "Sven Ottlieb"
+	},
+	{
+		"idCliente": "DUMON",
+		"NombreCompania": "Du monde entier",
+		"NombreContacto": "Janine Labrune"
+	},
+	{
+		"idCliente": "EASTC",
+		"NombreCompania": "Eastern Connection",
+		"NombreContacto": "Ann Devon"
+	},
+	{
+		"idCliente": "ERNSH",
+		"NombreCompania": "Ernst Handel",
+		"NombreContacto": "Roland Mendel"
+	},
+	{
+		"idCliente": "FAMIA",
+		"NombreCompania": "Familia Arquibaldo",
+		"NombreContacto": "Aria Cruz"
+	},
+	{
+		"idCliente": "FISSA",
+		"NombreCompania": "FISSA Fabrica Inter. Salchichas S.A.",
+		"NombreContacto": "Diego Roel"
+	},
+	{
+		"idCliente": "FOLIG",
+		"NombreCompania": "Folies gourmandes",
+		"NombreContacto": "Martine Ranc"
+	},
+	{
+		"idCliente": "FOLKO",
+		"NombreCompania": "Folk och f",
+		"NombreContacto": "Maria Larsson"
+	},
+	{
+		"idCliente": "FRANK",
+		"NombreCompania": "Frankenversand",
+		"NombreContacto": "Peter Franken"
+	},
+	{
+		"idCliente": "FRANR",
+		"NombreCompania": "France restauration",
+		"NombreContacto": "Carine Schmitt"
+	},
+	{
+		"idCliente": "FRANS",
+		"NombreCompania": "Franchi S.p.A.",
+		"NombreContacto": "Paolo Accorti"
+	},
+	{
+		"idCliente": "FURIB",
+		"NombreCompania": "Furia Bacalhau e Frutos do Mar",
+		"NombreContacto": "Lino Rodriguez "
+	},
+	{
+		"idCliente": "GALED",
+		"NombreCompania": "Galer",
+		"NombreContacto": "Eduardo Saavedra"
+	},
+	{
+		"idCliente": "GODOS",
+		"NombreCompania": "Godos Cocina T",
+		"NombreContacto": "Jos"
+	},
+	{
+		"idCliente": "GOURL",
+		"NombreCompania": "Gourmet Lanchonetes",
+		"NombreContacto": "Andr"
+	},
+	{
+		"idCliente": "GREAL",
+		"NombreCompania": "Great Lakes Food Market",
+		"NombreContacto": "Howard Snyder"
+	},
+	{
+		"idCliente": "GROSR",
+		"NombreCompania": "GROSELLA Restaurante",
+		"NombreContacto": "Manuel Pereira"
+	},
+	{
+		"idCliente": "HANAR",
+		"NombreCompania": "Hanari Carnes",
+		"NombreContacto": "Mario Pontes"
+	},
+	{
+		"idCliente": "HILAA",
+		"NombreCompania": "HILARI",
+		"NombreContacto": "Carlos Hern"
+	},
+	{
+		"idCliente": "HUNGC",
+		"NombreCompania": "Hungry Coyote Import Store",
+		"NombreContacto": "Yoshi Latimer"
+	},
+	{
+		"idCliente": "HUNGO",
+		"NombreCompania": "Hungry Owl All Night Grocers",
+		"NombreContacto": "Patricia McKenna"
+	},
+	{
+		"idCliente": "ISLAT",
+		"NombreCompania": "Island Trading",
+		"NombreContacto": "Helen Bennett"
+	},
+	{
+		"idCliente": "KOENE",
+		"NombreCompania": "K",
+		"NombreContacto": "Philip Cramer"
+	},
+	{
+		"idCliente": "LACOR",
+		"NombreCompania": "La corne d'abondance",
+		"NombreContacto": "Daniel Tonini"
+	},
+	{
+		"idCliente": "LAMAI",
+		"NombreCompania": "La maison d'Asie",
+		"NombreContacto": "Annette Roulet"
+	},
+	{
+		"idCliente": "LAUGB",
+		"NombreCompania": "Laughing Bacchus Wine Cellars",
+		"NombreContacto": "Yoshi Tannamuri"
+	},
+	{
+		"idCliente": "LAZYK",
+		"NombreCompania": "Lazy K Kountry Store",
+		"NombreContacto": "John Steel"
+	},
+	{
+		"idCliente": "LEHMS",
+		"NombreCompania": "Lehmanns Marktstand",
+		"NombreContacto": "Renate Messner"
+	},
+	{
+		"idCliente": "LETSS",
+		"NombreCompania": "Let's Stop N Shop",
+		"NombreContacto": "Jaime Yorres"
+	},
+	{
+		"idCliente": "LILAS",
+		"NombreCompania": "LILA Supermercado",
+		"NombreContacto": "Carlos Gonz"
+	},
+	{
+		"idCliente": "LINOD",
+		"NombreCompania": "LINO Delicateses",
+		"NombreContacto": "Felipe Izquierdo"
+	},
+	{
+		"idCliente": "LONEP",
+		"NombreCompania": "Lonesome Pine Restaurant",
+		"NombreContacto": "Fran Wilson"
+	},
+	{
+		"idCliente": "MAGAA",
+		"NombreCompania": "Magazzini Alimentari Riuniti",
+		"NombreContacto": "Giovanni Rovelli"
+	},
+	{
+		"idCliente": "MAISD",
+		"NombreCompania": "Maison Dewey",
+		"NombreContacto": "Catherine Dewey"
+	},
+	{
+		"idCliente": "MEREP",
+		"NombreCompania": "M",
+		"NombreContacto": "Jean Fresni"
+	},
+	{
+		"idCliente": "MORGK",
+		"NombreCompania": "Morgenstern Gesundkost",
+		"NombreContacto": "Alexander Feuer"
+	},
+	{
+		"idCliente": "NORTS",
+		"NombreCompania": "North/South",
+		"NombreContacto": "Simon Crowther"
+	},
+	{
+		"idCliente": "OCEAN",
+		"NombreCompania": "Oc",
+		"NombreContacto": "Yvonne Moncada"
+	},
+	{
+		"idCliente": "OLDWO",
+		"NombreCompania": "Old World Delicatessen",
+		"NombreContacto": "Rene Phillips"
+	},
+	{
+		"idCliente": "OTTIK",
+		"NombreCompania": "Ottilies K",
+		"NombreContacto": "Henriette Pfalzheim"
+	},
+	{
+		"idCliente": "PARIS",
+		"NombreCompania": "Paris sp",
+		"NombreContacto": "Marie Bertrand"
+	},
+	{
+		"idCliente": "PERIC",
+		"NombreCompania": "Pericles Comidas cl",
+		"NombreContacto": "Guillermo Fern"
+	},
+	{
+		"idCliente": "PICCO",
+		"NombreCompania": "Piccolo und mehr",
+		"NombreContacto": "Georg Pipps"
+	},
+	{
+		"idCliente": "PRINI",
+		"NombreCompania": "Princesa Isabel Vinhos",
+		"NombreContacto": "Isabel de Castro"
+	},
+	{
+		"idCliente": "QUEDE",
+		"NombreCompania": "Que Del",
+		"NombreContacto": "Bernardo Batista"
+	},
+	{
+		"idCliente": "QUEEN",
+		"NombreCompania": "Queen Cozinha",
+		"NombreContacto": "L"
+	},
+	{
+		"idCliente": "QUICK",
+		"NombreCompania": "QUICK Stop",
+		"NombreContacto": "Horst Kloss"
+	},
+	{
+		"idCliente": "RANCH",
+		"NombreCompania": "Rancho grande",
+		"NombreContacto": "Sergio Guti"
+	},
+	{
+		"idCliente": "RATTC",
+		"NombreCompania": "Rattlesnake Canyon Grocery",
+		"NombreContacto": "Paula Wilson"
+	},
+	{
+		"idCliente": "REGGC",
+		"NombreCompania": "Reggiani Caseifici",
+		"NombreContacto": "Maurizio Moroni"
+	},
+	{
+		"idCliente": "RICAR",
+		"NombreCompania": "Ricardo Adocicados",
+		"NombreContacto": "Janete Limeira"
+	},
+	{
+		"idCliente": "RICSU",
+		"NombreCompania": "Richter Supermarkt",
+		"NombreContacto": "Michael Holz"
+	},
+	{
+		"idCliente": "ROMEY",
+		"NombreCompania": "Romero y tomillo",
+		"NombreContacto": "Alejandra Camino"
+	},
+	{
+		"idCliente": "SANTG",
+		"NombreCompania": "Sant",
+		"NombreContacto": "Jonas Bergulfsen"
+	},
+	{
+		"idCliente": "SAVEA",
+		"NombreCompania": "Save a lot Markets",
+		"NombreContacto": "Jose Pavarotti"
+	},
+	{
+		"idCliente": "SEVES",
+		"NombreCompania": "Seven Seas Imports",
+		"NombreContacto": "Hari Kumar"
+	},
+	{
+		"idCliente": "SIMOB",
+		"NombreCompania": "Simons bistro",
+		"NombreContacto": "Jytte Petersen"
+	},
+	{
+		"idCliente": "SPECD",
+		"NombreCompania": "Sp",
+		"NombreContacto": "Dominique Perrier"
+	},
+	{
+		"idCliente": "SPLIR",
+		"NombreCompania": "Split Rail Beer & Ale",
+		"NombreContacto": "Art Braunschweiger"
+	},
+	{
+		"idCliente": "SUPRD",
+		"NombreCompania": "Supr",
+		"NombreContacto": "Pascale Cartrain"
+	},
+	{
+		"idCliente": "THEBI",
+		"NombreCompania": "The Big Cheese",
+		"NombreContacto": "Liz Nixon"
+	},
+	{
+		"idCliente": "THECR",
+		"NombreCompania": "The Cracker Box",
+		"NombreContacto": "Liu Wong"
+	},
+	{
+		"idCliente": "TOMSP",
+		"NombreCompania": "Toms Spezialit",
+		"NombreContacto": "Karin Josephs"
+	},
+	{
+		"idCliente": "TORTU",
+		"NombreCompania": "Tortuga Restaurante",
+		"NombreContacto": "Miguel Angel Paolino"
+	},
+	{
+		"idCliente": "TRADH",
+		"NombreCompania": "Tradi",
+		"NombreContacto": "Anabela Domingues"
+	},
+	{
+		"idCliente": "TRAIH",
+		"NombreCompania": "Trail's Head Gourmet Provisioners",
+		"NombreContacto": "Helvetius Nagy"
+	},
+	{
+		"idCliente": "VAFFE",
+		"NombreCompania": "Vaffeljernet",
+		"NombreContacto": "Palle Ibsen"
+	},
+	{
+		"idCliente": "VICTE",
+		"NombreCompania": "Victuailles en stock",
+		"NombreContacto": "Mary Saveley"
+	},
+	{
+		"idCliente": "VINET",
+		"NombreCompania": "Vins et alcools Chevalier",
+		"NombreContacto": "Paul Henriot"
+	},
+	{
+		"idCliente": "WANDK",
+		"NombreCompania": "Die Wandernde Kuh",
+		"NombreContacto": "Rita M"
+	},
+	{
+		"idCliente": "WARTH",
+		"NombreCompania": "Wartian Herkku",
+		"NombreContacto": "Pirkko Koskitalo"
+	},
+	{
+		"idCliente": "WELLI",
+		"NombreCompania": "Wellington Importadora",
+		"NombreContacto": "Paula Parente"
+	},
+	{
+		"idCliente": "WHITC",
+		"NombreCompania": "White Clover Markets",
+		"NombreContacto": "Karl Jablonski"
+	},
+	{
+		"idCliente": "WILMK",
+		"NombreCompania": "Wilman Kala",
+		"NombreContacto": "Matti Karttunen"
+	},
+	{
+		"idCliente": "WOLZA",
+		"NombreCompania": "Wolski  Zajazd",
+		"NombreContacto": "Zbyszek Piestrzeniewicz"
+	}
+]
